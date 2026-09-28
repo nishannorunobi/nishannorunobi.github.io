@@ -1,0 +1,10 @@
+# Header links, in order.
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Research & Service"
+    url: /research/
+
+  - title: "CV"
+    url: /cv/
