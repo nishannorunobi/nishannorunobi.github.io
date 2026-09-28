@@ -23,7 +23,7 @@ repository               : "nishannorunobi/nishannorunobi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ""
+  avatar           : "profile.jpg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Doctoral researcher in Computer Science — cybersecurity, machine learning, and applied AI"
